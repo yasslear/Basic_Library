@@ -1,0 +1,1 @@
+Creating JS libary by utilising sub-class inheritance.
